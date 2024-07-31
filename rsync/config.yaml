@@ -29,12 +29,8 @@ schema:
     - source: str
       destination: str
       options: str?
-  remote_host: str
-  remote_port: port?
 options:
   private_key_file: /ssl/rsync/id_rsa
-  username: user
   folders:
     - source: /config
       destination: /home/user
-  remote_host: ""
