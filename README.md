@@ -53,7 +53,7 @@ To install any of the add-ons offered in this repository, you must first add its
 
 or manually add the the following repository URL in the Home Assistant add-on store:
 
-`https://github.com/Poeschl/Hassio-Addons`
+`https://github.com/jeremyprz/Hassio-Addons`
 
 Then search for any of the add-ons in our addon store (button below) to install them.
 
@@ -67,13 +67,13 @@ The licence of the repository is inherited by the plugins, if not stated differe
 
 [addon-store-url]: https://my.home-assistant.io/redirect/supervisor_store/
 [addon-store-badge]: https://img.shields.io/badge/Open_Addon_store_on_my-Home%20Assistant-41BDF5?logo=home-assistant&style=for-the-badge
-[build-badge]: https://img.shields.io/github/actions/workflow/status/Poeschl/Hassio-Addons/main-addon-deploy.yaml?branch=main&style=for-the-badge
-[build-url]: https://github.com/Poeschl/Hassio-Addons/actions?query=workflow%3A%22Deploy+addons%22
-[commit-badge]: https://img.shields.io/github/commit-activity/m/Poeschl/Hassio-Addons?style=for-the-badge
-[licence-badge]: https://img.shields.io/github/license/Poeschl/Hassio-Addons?style=for-the-badge
+[build-badge]: https://img.shields.io/github/actions/workflow/status/jeremyprz/Hassio-Addons/main-addon-deploy.yaml?branch=main&style=for-the-badge
+[build-url]: https://github.com/jeremyprz/Hassio-Addons/actions?query=workflow%3A%22Deploy+addons%22
+[commit-badge]: https://img.shields.io/github/commit-activity/m/jeremyprz/Hassio-Addons?style=for-the-badge
+[licence-badge]: https://img.shields.io/github/license/jeremyprz/Hassio-Addons?style=for-the-badge
 [donation-badge]: https://img.shields.io/badge/Buy%20me%20a%20coffee-%23d32f2f?logo=buy-me-a-coffee&style=for-the-badge&logoColor=white
 [donation-url]: https://www.buymeacoffee.com/Poeschl
 [repository-badge]: https://img.shields.io/badge/Add_addon_repository_to_my-Home%20Assistant-41BDF5?logo=home-assistant&style=for-the-badge
-[repository-url]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FPoeschl%2FHassio-Addons
+[repository-url]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fjeremyprz%2FHassio-Addons
 [installations-badge]: https://img.shields.io/badge/statisitics-addon_installations-41BDF5.svg?style=for-the-badge
 [installations-url]: https://addonstats.poeschl.xyz?filter=243ffc37
