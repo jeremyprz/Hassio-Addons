@@ -1,4 +1,4 @@
-# rsync (Home Assistant Addon)
+# rsync (Home Assistant Addon - przasnys fork)
 
 Sync folders to a remote machine via ssh and rsync.
 

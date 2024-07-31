@@ -24,7 +24,6 @@ map:
   - media:rw
 schema:
   private_key_file: match(^/ssl/.+)
-  username: str
   folders:
     - source: str
       destination: str
